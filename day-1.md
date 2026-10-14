@@ -1,8 +1,11 @@
 # Daily Learning
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 ## Review
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
 
 
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
@@ -25,6 +28,12 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+
+
+![Mona the Octocat](myrepo/original.png)
+
+![Mona the Octocat](https://octodex.github.com/images/original.png)
+
 
 
 - First
